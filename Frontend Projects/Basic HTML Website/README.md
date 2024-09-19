@@ -1,6 +1,6 @@
 # Basic HTML Website
 
-[Reference](https://roadmap.sh/projects/basic-html-website)
+Reference: https://roadmap.sh/projects/basic-html-website
 
 ## Gaol
 Building a website using HTML, such as header, footer, navigation, main content, sidebar, etc.
